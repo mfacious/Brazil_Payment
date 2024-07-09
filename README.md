@@ -1,4 +1,4 @@
-#Usage
+# Usage
 
 ## Pay
 ```
@@ -16,7 +16,7 @@
     }
 ```
 
-##Payout
+## Payout
 
 ```
     $payConfig = new PaymentConfig($withdrawConfig['merchant_code'], $withdrawConfig['merchant_name'], $withdrawConfig['merchant_private_key'], $withdrawConfig['method']);
